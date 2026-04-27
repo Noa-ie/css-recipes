@@ -1,0 +1,20 @@
+body {
+    background-color: #FAF0E6;
+}
+
+.card {
+    text-align: center;
+}
+
+.chicken,
+.pizza,
+.popcorn {
+    display: inline-block;
+    background-color: #FBC41B;
+    border: 2px double #36454F;
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+}

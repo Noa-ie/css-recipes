@@ -1,0 +1,29 @@
+button {
+    background-color: #FBC41B;
+    padding: 16px;
+}
+
+body {
+    background-color: #FAF0E6;
+}
+
+.card,
+.ingredients,
+.steps {
+    text-align: center;
+}
+
+.ingredients {
+    border: 2px dotted #36454F;
+    margin: 8px;
+}
+
+.steps {
+    border: 2px double #36454F;
+    margin: 8px;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
