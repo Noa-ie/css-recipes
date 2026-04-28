@@ -1,1 +1,1 @@
-# css-recipes
+A revisit of the HTML recipes project, but with CSS styling added.
